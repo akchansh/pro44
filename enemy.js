@@ -17,7 +17,7 @@ class Enemy{
             enemy1 = createSprite(pos.x,pos.y,this.w,this.h)
             enemy1.addImage(this.image)
             enemy1.velocityX = -6
-            enemy1.scale = 0.2
+            enemy1.scale = 0.3
           }
     }
 }
